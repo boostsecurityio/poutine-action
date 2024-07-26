@@ -1,4 +1,4 @@
-FROM ghcr.io/boostsecurityio/poutine:0.13.0@sha256:ea94b53ea45393b696570c625d755e82cdd1fdaffc1c0a9f1ad46cca368d2e7d
+FROM ghcr.io/boostsecurityio/poutine:0.14.0@sha256:c54b1371e8c2339ce67e5e2efdf852d71bfc7e604f37dd77151b5805ba696162
 
 USER root
 
